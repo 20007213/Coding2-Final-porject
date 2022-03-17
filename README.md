@@ -10,5 +10,5 @@ At the beginning of the project I tried other ways of doing this, but after sear
 
 https://user-images.githubusercontent.com/91951125/158832898-7be55579-ca4b-463b-b799-6123062a20d7.mp4
 
+As I am still in the initial stages of learning python, there is still a lot of space for improvement in my code. I hope to learn more about deep neural networks in the next semester to improve my project.
 
-As I am still learning python, there is a lot of room for improvement in my code. I hope to learn more about deep neural networks in the next semester.
